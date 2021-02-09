@@ -1,3 +1,5 @@
+# Glitch
+
 This project continuously hesitates to comment on salient, event-like anomalies because it cultivates a particular conceit called “theory”. The intellectual import of this conceit is that, in theoretical work, an all-consuming effort is placed on making sense of salient *structure-like anomalies*. The philosophical import of this all-consuming effort is that systems thinking implies there is a *single structural anomaly* — that salient structure-like anomalies must always/continually reproduce themselves in a system-like anomalous homeostasis.
 
 At this point, the reader should react with skeptical reflexes: how can something that is so stable and wide-encompassing be characterized as an anomaly?
